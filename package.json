@@ -1,0 +1,22 @@
+{
+  "name": "tx33-nisaiqbal000-cli_number_guessing",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": "index.js",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nisa000_cli_number_guessing": "^1.0.0",
+    "nisazx_cli_number_guessing": "^1.0.1",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.2",
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
